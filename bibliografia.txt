@@ -1,2 +1,3 @@
 Chacon, S. and Straub, B. Pro Git. Apress
-ModificaciÃ³n en master
+Modificación en master
+Modificación desde issue
